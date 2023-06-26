@@ -1,0 +1,42 @@
+.item-uno, .item-dos, .item-tres{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.item-uno{
+	background-color: #371777;
+}
+
+.item-dos{
+	background-color: #00112C;
+}
+
+.item-tres{
+	background-color: #371777;
+}
+
+.mouse{
+	max-width: 200px;
+	margin: auto;
+}
+
+.audifonos{
+	margin: auto;
+}
+
+.ipad{
+	margin: auto;
+}
+
+.title-item{
+	margin-top: 20px;
+}
+
+.item-uno a, .item-dos a, .item-tres a{
+	text-decoration: none;
+}
+
+.main{
+	margin-top: 60px;
+}

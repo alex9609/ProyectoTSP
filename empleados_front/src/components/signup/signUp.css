@@ -1,0 +1,25 @@
+.titulo{
+    color: rgb(55, 23, 119);
+    font-weight: bold;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.subtitulo{
+    font-size: 30px;
+	padding: 10px;
+}
+
+.subtitulo:hover{
+    font-size: 30px;
+	color: rgb(55, 23, 119);
+    font-weight: bold;
+}
+
+.label-info{
+    width: 80%;
+    margin: auto;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+}

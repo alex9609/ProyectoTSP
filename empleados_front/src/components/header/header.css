@@ -1,0 +1,52 @@
+.tituloHeader{
+	font-size: 4rem;
+}
+
+.header{
+	padding: 20px;
+}
+
+.bar-search{
+	padding: 10%;
+}
+
+.search{
+	margin-right: 0.5rem;
+	border: none;
+	border-radius: 5px;
+	max-width: 200px;
+}
+
+.iconos{
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+	padding-top: 10%;
+}
+
+.menu{
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+}
+.menu li{
+	margin-right:10px;
+
+}
+.menu li a{
+	text-decoration: none;
+	color: rgb(55, 23, 119);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.menu li a:hover{
+	color: rgb(55, 23, 119,0.80);
+}
+
+.linea, .linea:hover{
+	color: rgb(55, 23, 119);
+    font-weight: bold;
+    font-size: 20px;
+}
+

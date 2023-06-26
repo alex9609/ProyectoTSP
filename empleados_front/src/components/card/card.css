@@ -1,0 +1,18 @@
+.price, .reference{
+	color: #00112C;
+	font-size: 30px;
+}
+
+.price{
+	font-weight: bold;
+	font-size: 26px;
+}
+
+.star{
+	max-width: 150px;
+	margin: auto;
+}
+
+.cont-product{
+	margin: auto;
+}
